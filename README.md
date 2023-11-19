@@ -11,4 +11,3 @@
 
 ### TUTORIAL/EXPLANATION FOR MAIN.PY
 Follow This [Youtube Link](https://www.youtube.com/watch?v=_nkQd9SyEpw).
-![Youtube Video](https://i.ytimg.com/vi/_nkQd9SyEpw/hq720.jpg?sqp=-oaymwEjCOgCEMoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBJgnw7P2gCMjG-rzceC3P0z7IX2g)
