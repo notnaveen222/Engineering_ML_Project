@@ -1,6 +1,6 @@
-## FOR WORKING MAKE SURE TO INSTALL THESE MODULES 
-# OPEN CMD AND => ( search CMD in Windows )
-# RUN THESE COMMANDS 
+# FOR WORKING MAKE SURE TO INSTALL THESE MODULES 
+### OPEN CMD AND => ( search CMD in Windows )
+### RUN THESE COMMANDS 
 > pip install nltk  
 > pip install textblob
 
